@@ -1,4 +1,4 @@
-# CharacterLipSync2D
+# CharacterLipSync
 Real-Time Lip Sync for Live 2D Animation
 
 ## Additional results:
