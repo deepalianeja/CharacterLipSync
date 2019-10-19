@@ -1,7 +1,7 @@
 # CharacterLipSync2D
 Real-Time Lip Sync for Live 2D Animation
 
-# Additional results:
+## Additional results:
 
 The spoken sentences are taken from a test set of 50 recordings, which we used to generate side-by-side comparisons that we ran on Amazon Mechanical Turk.
 
