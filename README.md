@@ -5,9 +5,11 @@ Real-Time Lip Sync for Live 2D Animation
 
 The spoken sentences are taken from a test set of 50 recordings, which we used to generate side-by-side comparisons that we ran on Amazon Mechanical Turk.
 
-Our result is always on the RIGHT side. Following video comparisons are included:
 Ch - Adobe Character Animator v1. https://www.adobe.com/products/character-animator.html
+
 ToonBoom https://www.toonboom.com/products/harmony
+
+Our result is always on the RIGHT side. Following video comparisons are included:
 
 Baseline 1 : Ch Online (live) vs Ours (live)
 1. ChOnline_vs_Ours_Female
