@@ -1,5 +1,6 @@
 # CharacterLipSync
 Real-Time Lip Sync for Live 2D Animation
+
 Video summary - character_lipsync_video_summary.mp4
 
 ## Additional results:
