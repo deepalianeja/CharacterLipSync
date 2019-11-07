@@ -7,7 +7,9 @@ Video summary - character_lipsync_video_summary.mp4
 
 The spoken sentences are taken from a test set of 50 recordings, which we used to generate side-by-side comparisons that we ran on Amazon Mechanical Turk.
 
-Ch - Adobe Character Animator v1. https://www.adobe.com/products/character-animator.html
+Ch - Adobe Character Animator v1. 
+
+https://www.adobe.com/products/character-animator.html
 
 ToonBoom https://www.toonboom.com/products/harmony
 
