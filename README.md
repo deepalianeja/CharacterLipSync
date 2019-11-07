@@ -3,18 +3,18 @@ Real-Time Lip Sync for Live 2D Animation
 
 ![Alt text](teaser.png?raw=true "Real-time Lip Sync for Live 2D Animation") <!-- .element height="50%" width="50%" -->
 
-
-Video summary - character_lipsync_video_summary.mp4
+Paper: https://arxiv.org/abs/1910.08685
+Video summary: character_lipsync_video_summary.mp4
 
 ## Additional results:
 
 The spoken sentences are taken from a test set of 50 recordings, which we used to generate side-by-side comparisons that we ran on Amazon Mechanical Turk.
 
 Ch - Adobe Character Animator v1. 
-
 https://www.adobe.com/products/character-animator.html
 
-ToonBoom https://www.toonboom.com/products/harmony
+ToonBoom 
+https://www.toonboom.com/products/harmony
 
 Our result is always on the RIGHT side. Following video comparisons are included:
 
