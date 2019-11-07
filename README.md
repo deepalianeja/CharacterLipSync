@@ -4,6 +4,7 @@ Real-Time Lip Sync for Live 2D Animation
 ![Alt text](teaser.png?raw=true "Real-time Lip Sync for Live 2D Animation") <!-- .element height="50%" width="50%" -->
 
 Paper: https://arxiv.org/abs/1910.08685
+
 Video summary: character_lipsync_video_summary.mp4
 
 ## Additional results:
